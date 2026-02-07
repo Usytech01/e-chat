@@ -1,6 +1,6 @@
 import { Posts } from "@/app/interfaces";
 import Share from "./Share";
-import Post from "./PostCaed";
+import Post from "./PostCard";
 
 
 const Feed: React.FC = () => {
